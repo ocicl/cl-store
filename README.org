@@ -1,0 +1,11 @@
+* cl-store
+
+CL-STORE is an portable serialization package which should give you
+the ability to store all common-lisp data types (well not all yet)
+into streams.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/skypher/cl-store.git |
+| commit  | adb52a1                                     |
+| systems | cl-store                                    |
+|---------+---------------------------------------------|
